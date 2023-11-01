@@ -1,0 +1,1037 @@
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrewcondensed.css);
+
+
+.MuiGridListTile-imgFullHeight {
+    width: 100%;
+}
+
+.logologin
+{width: 400px;
+height: 200px;
+margin: 20px;
+margin-left: 100px;}
+
+.slideshow
+{
+  background-image: url(./Assets/drow2.jpg);
+  background-size: 150px;
+  height: 986px;
+}
+
+.FileUploadPagediv {
+  margin: 30px;
+}
+
+.MuiPaper-root.comment.MuiPaper-elevation1.MuiPaper-rounded{
+  width: 500px;
+  height: 500px;
+}
+
+
+.commentavatar{
+  float: right;
+}
+
+
+.image{
+  width:350px;
+  height: 750px;;
+}
+
+.image-container {
+  margin-top: 100px;
+}
+
+.slide-container {
+  width: 1300px;
+  height: 800px;
+  margin-left: 300px;
+}
+
+.Slideshowtext{
+  width: 600px;
+  height: 400px;
+  float: right;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-top: 350px;
+}
+
+input.MuiInputBase-input.MuiInput-input.MuiInputBase-inputAdornedStart {
+  width: 100%;
+}
+
+span.PrivateTabIndicator-root-4.PrivateTabIndicator-colorSecondary-6.MuiTabs-indicator {
+  background-color: lightgray;
+}
+
+.rating
+{
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.makeStyles-rootProfile-1 {
+  margin-left: 20%;
+}
+
+/* .MuiBox-root.MuiBox-root-8 {
+  margin-top: 100px;
+} */
+
+.sc-AxmLO.kSMAC {
+  background-color: black;
+}
+
+.MuiTabs-root.makeStyles-tabs-2.MuiTabs-vertical {
+  height: 83vh;
+}
+
+.linkappbar
+{width: 200px;}
+
+span.PrivateTabIndicator-root-3.PrivateTabIndicator-colorSecondary-5.MuiTabs-indicator.PrivateTabIndicator-vertical-6{
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Open Sans Hebrew Condensed', serif;
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MuiFormControl-root.MuiTextField-root.field{
+width: 300px;
+margin: 10px;
+}
+
+.tabpanel
+{min-width: 1450px;
+text-align: center;}
+
+p 
+{
+  margin: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* center */
+
+.login,
+h1,
+.MuiFormControl-root.MuiTextField-root.txt,
+p.txtP,
+.MuiAutocomplete-root.MuiAutocomplete-hasClearIcon.MuiAutocomplete-hasPopupIcon 
+{ text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  display: block;}
+
+/* font */
+.login,
+input.MuiInputBase-input.MuiInput-input.MuiInputBase-inputAdornedStart,
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.btn,
+input.MuiInputBase-input.MuiInput-input, .ratep, ul.MuiList-root.MuiMenu-list.MuiList-padding,
+span.MuiTab-wrapper,
+label#datetime-local-label,
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.Dbtn,
+.MuiButton-label,
+h1,
+p.txtP,
+p.pprofile,p, .sidebar a, span.MuiButton-label
+{font-family: 'Open Sans Hebrew Condensed', serif;
+  font-size: 17px;}
+
+/*righy*/
+ul.MuiList-root.MuiMenu-list.MuiList-padding, .btnG
+{
+  float: right;
+}
+
+.btnG2
+{margin-bottom: 10px;}
+
+
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.MuiButtonGroup-grouped.MuiButtonGroup-groupedVertical.MuiButtonGroup-groupedText.MuiButtonGroup-groupedTextVertical.MuiButtonGroup-groupedTextPrimary.font.MuiButton-textPrimary {
+  color: black;
+}
+
+.mainTEXT3
+{font-size: 33px;
+  font-weight:bold}
+
+.MuiButton-label{font-size: 25px;}
+
+
+h1 {
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.imgbtn{
+  width: 60px;
+  height: 60px;
+}
+
+.profilediv2
+{
+  width: 550px;
+  margin-left: 30px;
+}
+
+.profilediv {
+  width: 550px;
+  margin-top: 120px;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.btnevent
+{margin-left: 30%;}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.btnevent2
+{margin-left: 40%;}
+
+.singindiv{
+  width: 300px;
+  height: 300px;
+  margin-left: 350px;
+  margin-top: 700px;
+  position: absolute;
+}
+
+.MuiAvatar-root.MuiAvatar-circle.commentavatar {
+  border: 1px solid black;
+  margin-right: 15px;
+}
+
+.rightlogin
+{
+  margin-top: 350px;
+  position: absolute;
+  margin-left: 60%;
+}
+
+
+
+.MuiCircularProgress-root.MuiCircularProgress-colorSecondary.MuiCircularProgress-indeterminate{
+  color: currentColor;
+}
+
+.rate{
+  float: left;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.Dbtn{font-size: 20px;}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.btn
+{margin-left: 160px;}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-formControl.MuiInput-formControl
+{width: 350px;
+margin-left: 20px;}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.btn2 {
+  font-size: 30px;
+  margin-left: 45%;
+}
+
+.MuiTabs-flexContainer
+  { text-align: center;
+    align-items: center;
+    justify-content:center;
+    display: block;}
+
+    header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionStatic.MuiAppBar-colorPrimary.AppBar.MuiPaper-elevation4{
+      background-color: black;
+  }
+
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text.btn
+{ font-size: 20px; }
+
+.appbar
+{ background-color: rgba(255, 253, 253, 0.8); }
+
+.MuiButtonGroup-root.btnG.MuiButtonGroup-vertical {
+  margin-right: 10%;
+}
+
+h1.h1 {
+  padding-top: 200px;
+}
+
+.appbartxt
+{width: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
+    position: absolute; }
+
+  .MuiAvatar-root.MuiAvatar-circle.avatar
+  {border: 1px solid;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+  .MuiAvatar-root.MuiAvatar-circle.homeavatar
+  {border: 1px solid;
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+  margin-top: 10px;
+  margin-left: 45%;}
+
+  .MuiAvatar-root.MuiAvatar-circle.profileavatar
+  {border: 1px solid;
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    margin-top: 15px;
+margin-left: 150px;}
+
+.status{
+float: left;
+padding-left: 20px;
+}
+
+button.MuiButtonBase-root.MuiIconButton-root.menu
+{float: right;
+margin-top: 40px;
+margin-right: 20px;}
+
+.profileimg
+{width: 200px;
+height: 100px;}
+
+.profileimgappbar{
+  width:400px;
+  height: 600px;
+  position: absolute;
+  margin-top: 1px;
+}
+
+.MuiTabs-scroller.MuiTabs-scrollable {
+  margin-top: 150px;
+}
+
+.tinyText
+{
+font-size: 14px;
+}
+
+.userMessege{
+  background: #007aff;
+  height: 30px;
+  border-radius: 10px;
+  direction: rtl;
+  float: right;
+  margin-right: auto;
+}
+
+.userMessegeFont{
+  direction: ltr;
+  margin-right: 15px;
+  padding: 5px;
+}
+
+.serviceImg
+{
+  width:200px;
+  height: 200px;
+}
+.txt
+{margin: 30px;
+  width: 300px;
+  margin-left: 100px;}
+
+.txt2
+{ margin-right: 170px;}
+
+.statusActive{
+  color: #51be51;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.status{
+  color: #b20707;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.pprofile
+{    width: 150px;
+  text-align: right;
+  margin-left: 300px;
+  position: relative;
+  font-weight: bold;;}
+
+input[type='text']::placeholder, input[type='password']::placeholder, input[type='number']::placeholder, input.MuiInputBase-input.MuiInput-input
+    { text-align: right;
+      width: 100%;}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.sortselectWine, 
+.MuiSelect-root.MuiSelect-select.MuiSelect-selectMenu.MuiInputBase-input.MuiInput-input
+{
+width: 300px;
+margin-left: 50px;
+}
+
+
+    .MuiPaper-root.profilePaper.MuiPaper-elevation1.MuiPaper-rounded
+    {width: 500px;
+    height: 900px;
+    margin-left: 30%;
+  }
+
+  .sidebarLOGO{
+    width: 170px;
+    height: 100px;
+  }
+  
+  .LOGO{
+    width: 500px;
+    height: 300px;
+    margin-top: 200px;
+  }
+  .HomeDiv{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    display: block;
+    padding-top: 40px;
+  }
+  
+  
+  .MuiAvatar-root.MuiAvatar-circle.HomeAvatar {
+    border: 1px solid;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+    display: block;
+  }
+  
+  span.PrivateTabIndicator-root-6.PrivateTabIndicator-colorSecondary-8.MuiTabs-indicator 
+  {
+    background-color: gray;
+  }
+
+  .autodiv{width: 300px;}
+  
+  .wineBTN{
+    margin: 10px;
+    text-align: center;
+  }
+  
+  ul.MuiList-root.MuiMenu-list.MuiList-padding {
+    width: 150px;
+  }
+  
+  .winediv{
+    margin: 100px;
+    margin-right: 300px
+  }
+  
+  .editdiv{
+    text-align-last: right;
+    width: 500px;
+  }
+  
+  .wine, .flippy-card.flippy-front.wine, .flippy-card.flippy-back.wine {
+  width: 400px;
+  height: 700px;
+  margin:10px;
+  float: left;
+  background: white;
+  }
+
+  .commenttop {
+    height: 130px;
+}
+
+  .ratediv{
+  float: left;
+  width: 300px;
+  height: 100px;
+  margin:50px;
+  }
+
+   .comment, .MuiPaper-root.commentpaper.MuiPaper-elevation1.MuiPaper-rounded{
+    float: left;
+    width: 350px;
+    height: 500px;
+    margin:20px;
+    }
+
+
+
+  .service, .flippy-cardContainer, .flippy-card.flippy-front, .flippy-card.flippy-back{
+  width: 600px;
+  height: 700px;
+  margin:10px;
+  float: left;
+  bottom: 20px;
+  
+  }
+  
+  .wineImg{
+    width: 300px;
+    height: 300px;
+  }
+  
+.rateImg{
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.commentImg{
+  width: 100px;
+  height: 100px;
+}
+
+  .deleteIcon{
+    float: left;
+  }
+  
+  .pUpBar{
+    float: right;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  .endRegDiv{
+    margin: 100px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    display: block;
+    font-size: 20px;
+    background-color: white;
+  }
+  
+  .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-fullWidth.MuiInput-fullWidth {
+  margin: 20px;
+  margin-left: 50px;
+  }
+  
+  .upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    display: block;
+  }
+  
+  .btn {
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    display: block;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+  
+  .addWine, .sortselectWine{
+    width: 500px;
+    height: auto;
+  }
+  
+  input.MuiInputBase-input.MuiOutlinedInput-input {
+    text-align: right;
+  }
+  
+  .editImg{
+    width: 130px;
+    height: 130px;
+  }
+  
+  .eventimg{
+    width: 400px;
+    height: 300px;
+  }
+  
+  .eventpaper{
+    width: 500px;
+    height: 600px;
+  }
+  
+  .editdiv{
+    width: 300px;
+    height: 200px;
+    margin-right: 50px;
+  }
+  
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-text.Dbtn{
+    color: brown;
+  }
+
+  .MuiInputBase-root.MuiInput-root.MuiInput-underline.sortselectWine {
+    margin-left: 20%;
+}
+  
+  .MuiPaper-root.addWine.MuiPaper-elevation1.MuiPaper-rounded {
+    height: 700px;
+    width:400px;
+    margin-left: 30%;
+  }
+  
+  .wine{margin-left: 80px;}
+
+  .serviceIMG {
+    width: 200px;
+    height: 200px;
+  }
+  
+  svg.MuiSvgIcon-root.editIcon, svg.MuiSvgIcon-root.deleteicon{
+    color:black;
+  }
+  
+  svg.MuiSvgIcon-root.deleteicon {
+    right: 80px;
+  }
+  
+  .MuiGridListTileBar-root.MuiGridListTileBar-titlePositionBottom {
+    background: 0;
+  }
+  
+  .MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters{
+    background-color: black;
+    text-align: right;
+  }
+  
+  span.MuiTypography-root {
+    margin: 10px;
+  }
+  
+  header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionFixed.MuiAppBar-colorPrimary.mui-fixed.MuiPaper-elevation4 {
+    direction: rtl;
+  }
+  
+  .MuiFormControl-fullWidth {
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+  }
+  
+  .pSingin{
+    text-align: right;
+  }
+  
+  .h2{
+    font-size: 20px;
+  }
+  
+  .tynimg{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+  }
+  
+  .startLOGIN{
+  position:relative;
+  width: 100%;
+  margin-top:100px;
+  }
+
+  .mainIMG{
+    margin-bottom:300px;
+    height: 600px;
+    border: solid 5px;
+    height: 500px;
+    width: 100%;
+  }
+
+  .loginimg{
+    height: 1000px;
+    float: left;
+    width: 55%;
+  }
+
+  .singinimg{
+    width: 45%;
+    float: right;
+    margin-top: 700px;
+    height: 1000px;
+  }
+
+  
+  .imgdiv
+  {width: 500px;
+    margin-left: 250px;
+  }
+
+
+.mainTEXT2{
+    width: 400px;
+    height: 300px;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-left: 20%;
+    }
+  
+
+
+  button.MuiButtonBase-root.MuiButton-root.MuiButton-text.mainBTN {
+    margin: 80px;
+    background-color: black;
+    color: white;
+  }
+  
+  .IMG{
+    width: 900px;
+    height: 700px;
+  }
+  
+  .slider{
+    height: 700px;
+    width: 700px;
+    margin-left: 100px;
+  }
+  
+  .rightText{
+    width: 300px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 300px;
+    font-size: 30px;
+    color: white;
+  }
+  
+  .rightimg{
+    float: right;
+    width: 700px;
+    height: 800px;
+    margin-right: 200px;
+    margin-top: 100px;
+  
+  }
+  
+  .loginform{
+    float: left;
+  position:absolute;
+  width: 400px;
+  height: 100px;
+  margin-left: 400px;
+  margin-top: 200px;
+  
+  }
+  
+  div#login {
+    height: 300px;
+    width: 100%;
+  }
+  
+  .rateIMG{
+    width: 100px;
+    height: 100px;
+  }
+  
+  .rateDIV{
+    display: 'flex';
+    flex-wrap: 'wrap';
+  }
+  
+  .pIMG{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+  }
+  
+  .MuiPaper-root.pPAPER.MuiPaper-elevation1.MuiPaper-rounded{
+    float: left;
+    width: 500px;
+    height: 730px;
+    margin-left: 150px;
+    margin-top: 120px;
+    border-radius: 0 25px 25px 0;
+  }
+  
+  .rightDIV{
+    float: right;
+    width: 800px;
+    height: 400px;
+    margin-top: 70px;
+    text-align: right;
+    margin-right: 100px;
+    
+  }
+  
+  .MuiPaper-root.wPAPER.MuiPaper-elevation1.MuiPaper-rounded{
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 25px 0 0 25px;
+  
+  }
+  
+  .MuiPaper-root.gPAPER.MuiPaper-elevation1.MuiPaper-rounded{
+    width: 500px;
+    height: 200px;
+    margin-top: 30px;
+    border-radius: 25px 0 0 25px;
+  }
+  
+  .profileDIV{
+    width: 100%;
+    height: 1000px;
+  }
+  
+  .bgimg{
+    position:absolute;
+  }
+  
+ 
+  
+  .MuiPaper-root.MuiPaper-elevation1.MuiPaper-rounded {
+    height: 150px;
+  }
+  
+  .topP{
+    float: right;
+    margin: 40px;
+    margin-top: 30px;
+    font-size: 30px;
+  }
+  
+  .topPmytext{
+    float: right;
+    margin: 20px;
+    margin-top: 40px;
+  }
+  
+  .status{
+    float: left;
+    padding-left: 20px;
+  }
+  
+  .loding{
+    margin-right: 300px;
+  
+  }
+
+.homeevent
+{
+width: 500px;
+margin-top: 30px;
+margin-left: 34%;
+}
+
+.eventimg{
+  width: 100px;
+  height: 100px;
+}
+
+.MuiPaper-root.MuiCard-root.event.MuiPaper-elevation1.MuiPaper-rounded
+{
+  width: 300px;
+  height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    z-index: 0;
+    overflow: auto;
+    transition: background-color .2s ease-in;
+    float: right;
+    position:fixed;
+    background-color: white;
+  }
+  
+  @keyframes test {
+    0% { height: 55px; width: 55px; background-color: #6A86D9; border-radius: 50%; }
+    50% { border-radius: 0 25px 25px 0; width: 70px; }
+    100% { 
+      background-color: #62D9D9; width: 200px; border-radius: 0; 
+    }
+  }
+  
+  @keyframes animFullSidebar {
+    0% { height: 55px; width: 55px; background-color: #6A86D9; border-radius: 50%; }
+    50% { border-radius: 0 25px 25px 0; width: 70px; }
+  }
+  
+  .sidebar a {
+    display: block;
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+  text-align: center;
+    
+    span {
+      position: relative;
+      z-index: 999;
+      transition: all .2s;
+  
+      i {
+        opacity: 0;
+        transition: opacity .5s;
+      }
+    }
+    
+  
+  }
+   
+  .container {
+    direction: rtl;
+  }
+  
+  .sidebarLOGO{
+    width: 170px;
+    height: 100px;
+  }

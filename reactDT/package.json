@@ -1,0 +1,67 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.11",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@material-ui/pickers": "^3.3.10",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@vinspee/react-show-more": "^1.1.2",
+    "bootstrap": "^4.6.0",
+    "date-fns": "^2.22.1",
+    "firebase": "^8.7.0",
+    "moment": "^2.29.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-animated-slider": "^2.0.0",
+    "react-bootstrap": "^1.6.1",
+    "react-custom-scroll": "^4.3.0",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^17.0.2",
+    "react-flippy": "^1.1.0",
+    "react-gifted-chat": "^1.0.5",
+    "react-icons": "^4.2.0",
+    "react-loader-spinner": "^4.0.0",
+    "react-moment": "^1.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.2",
+    "react-scrollbar": "^0.5.6",
+    "react-show-more": "^2.0.0",
+    "react-show-more-button": "^1.0.0",
+    "react-slideshow-image": "^3.5.0",
+    "react-smart-scroller": "^1.1.20",
+    "react-timer-hook": "^3.0.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "https://proj.ruppin.ac.il/bgroup15/prod/React",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
